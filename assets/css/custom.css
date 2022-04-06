@@ -1,0 +1,12 @@
+#download-button {
+    margin-top: 20px;
+}
+
+.accordion-section {
+    padding-left:0 !important;
+}
+
+.custom-col {
+    display: flex;
+    align-items: flex-end;
+}
