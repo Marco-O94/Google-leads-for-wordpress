@@ -1,2 +1,0 @@
-# Google-leads-for-wordpress
-Grazie a questo plugin sarà possibile importare i dati inviati dal Google lead form direttamente in backend sul proprio sito wordpress potendoli anche scaricare in csv per successivi utilizzi. Il plugin è in Italiano ed è ancora in fase di sviluppo, sono operative soltanto le funzioni essenziali di import dati da google e download csv dei dati finora immagazzinati nel proprio sito.
